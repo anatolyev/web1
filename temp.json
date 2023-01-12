@@ -1,0 +1,808 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": "Тихвинский переулок д. 3",
+          "results": "10",
+          "found": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Москва, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Москва, Тихвинский переулок, 3",
+                  "postal_code": "127055",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Москва"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Москва"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Москва, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Москва",
+                      "Locality": {
+                        "LocalityName": "Москва",
+                        "Thoroughfare": {
+                          "ThoroughfareName": "Тихвинский переулок",
+                          "Premise": {
+                            "PremiseNumber": "3",
+                            "PostalCode": {
+                              "PostalCodeNumber": "127055"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "Москва, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "37.591665 55.785392",
+                "upperCorner": "37.599876 55.790018"
+              }
+            },
+            "Point": {
+              "pos": "37.59577 55.787705"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Ростов-на-Дону, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Ростов-на-Дону, Тихвинский переулок, 3",
+                  "postal_code": "344079",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Ростовская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Ростов-на-Дону"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Ростов-на-Дону"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Ростов-на-Дону, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Ростовская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Ростов-на-Дону",
+                        "Locality": {
+                          "LocalityName": "Ростов-на-Дону",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Тихвинский переулок",
+                            "Premise": {
+                              "PremiseNumber": "3",
+                              "PostalCode": {
+                                "PostalCodeNumber": "344079"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "Ростов-на-Дону, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "39.686653 47.253831",
+                "upperCorner": "39.694864 47.259421"
+              }
+            },
+            "Point": {
+              "pos": "39.690758 47.256626"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Свердловская область, Екатеринбург, жилой район Семь Ключей, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Свердловская область, Екатеринбург, жилой район Семь Ключей, Тихвинский переулок, 3",
+                  "postal_code": "620134",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "муниципальное образование Екатеринбург"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Екатеринбург"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "жилой район Семь Ключей"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Свердловская область, Екатеринбург, жилой район Семь Ключей, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "муниципальное образование Екатеринбург",
+                        "Locality": {
+                          "LocalityName": "Екатеринбург",
+                          "DependentLocality": {
+                            "DependentLocalityName": "жилой район Семь Ключей",
+                            "Thoroughfare": {
+                              "ThoroughfareName": "Тихвинский переулок",
+                              "Premise": {
+                                "PremiseNumber": "3",
+                                "PostalCode": {
+                                  "PostalCodeNumber": "620134"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "жилой район Семь Ключей, Екатеринбург, Свердловская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.490135 56.880519",
+                "upperCorner": "60.498345 56.885014"
+              }
+            },
+            "Point": {
+              "pos": "60.49424 56.882766"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Свердловская область, Сысертский городской округ, коттеджный посёлок Расторгуевъ, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Свердловская область, Сысертский городской округ, коттеджный посёлок Расторгуевъ, Тихвинский переулок, 3",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Сысертский городской округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "коттеджный посёлок Расторгуевъ"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Свердловская область, Сысертский городской округ, коттеджный посёлок Расторгуевъ, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Сысертский городской округ",
+                        "Locality": {
+                          "LocalityName": "коттеджный посёлок Расторгуевъ",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Тихвинский переулок",
+                            "Premise": {
+                              "PremiseNumber": "3"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "коттеджный посёлок Расторгуевъ, Сысертский городской округ, Свердловская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.927039 56.667467",
+                "upperCorner": "60.93525 56.671988"
+              }
+            },
+            "Point": {
+              "pos": "60.931145 56.669728"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Волгоград, посёлок Ангарский, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Волгоград, посёлок Ангарский, Тихвинский переулок, 3",
+                  "postal_code": "400081",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Волгоградская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Волгоград"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Волгоград"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "посёлок Ангарский"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Волгоград, посёлок Ангарский, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Волгоградская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Волгоград",
+                        "Locality": {
+                          "LocalityName": "Волгоград",
+                          "DependentLocality": {
+                            "DependentLocalityName": "посёлок Ангарский",
+                            "Thoroughfare": {
+                              "ThoroughfareName": "Тихвинский переулок",
+                              "Premise": {
+                                "PremiseNumber": "3",
+                                "PostalCode": {
+                                  "PostalCodeNumber": "400081"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "посёлок Ангарский, Волгоград, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "44.469553 48.712174",
+                "upperCorner": "44.477764 48.717607"
+              }
+            },
+            "Point": {
+              "pos": "44.473658 48.714891"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Челябинская область, Магнитогорск, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Челябинская область, Магнитогорск, Тихвинский переулок, 3",
+                  "postal_code": "455016",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Челябинская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Магнитогорск"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Магнитогорск"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Челябинская область, Магнитогорск, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Челябинская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Магнитогорск",
+                        "Locality": {
+                          "LocalityName": "Магнитогорск",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Тихвинский переулок",
+                            "Premise": {
+                              "PremiseNumber": "3",
+                              "PostalCode": {
+                                "PostalCodeNumber": "455016"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "Магнитогорск, Челябинская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "59.061742 53.379128",
+                "upperCorner": "59.069952 53.384037"
+              }
+            },
+            "Point": {
+              "pos": "59.065847 53.381583"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Ленинградская область, Тихвинский район, Шугозерское сельское поселение, посёлок Шугозеро, Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Ленинградская область, Тихвинский район, Шугозерское сельское поселение, посёлок Шугозеро, Тихвинский переулок, 3",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Северо-Западный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Ленинградская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Тихвинский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Шугозерское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "посёлок Шугозеро"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Ленинградская область, Тихвинский район, Шугозерское сельское поселение, посёлок Шугозеро, Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Ленинградская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Тихвинский район",
+                        "Locality": {
+                          "LocalityName": "посёлок Шугозеро",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Тихвинский переулок",
+                            "Premise": {
+                              "PremiseNumber": "3"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 3",
+            "description": "посёлок Шугозеро, Шугозерское сельское поселение, Тихвинский район, Ленинградская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "34.190212 59.926445",
+                "upperCorner": "34.198423 59.930566"
+              }
+            },
+            "Point": {
+              "pos": "34.194317 59.928505"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "near",
+                "text": "Кыргызстан, Бишкек, Тихвинский переулок, 5",
+                "kind": "house",
+                "Address": {
+                  "country_code": "KG",
+                  "formatted": "Кыргызстан, Бишкек, Тихвинский переулок, 5",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Кыргызстан"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "город республиканского подчинения Бишкек"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Бишкек"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "5"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Кыргызстан, Бишкек, Тихвинский переулок, 5",
+                    "CountryNameCode": "KG",
+                    "CountryName": "Кыргызстан",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "город республиканского подчинения Бишкек",
+                      "Locality": {
+                        "LocalityName": "Бишкек",
+                        "Thoroughfare": {
+                          "ThoroughfareName": "Тихвинский переулок",
+                          "Premise": {
+                            "PremiseNumber": "5"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 5",
+            "description": "Бишкек, Кыргызстан",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "74.579393 42.898475",
+                "upperCorner": "74.587603 42.904511"
+              }
+            },
+            "Point": {
+              "pos": "74.583498 42.901493"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Иваново, 2-й Тихвинский переулок, 3",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Иваново, 2-й Тихвинский переулок, 3",
+                  "postal_code": "153006",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Ивановская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Иваново"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Иваново"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "2-й Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "3"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Иваново, 2-й Тихвинский переулок, 3",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Ивановская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Иваново",
+                        "Locality": {
+                          "LocalityName": "Иваново",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "2-й Тихвинский переулок",
+                            "Premise": {
+                              "PremiseNumber": "3",
+                              "PostalCode": {
+                                "PostalCodeNumber": "153006"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "2-й Тихвинский переулок, 3",
+            "description": "Иваново, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "41.03365 56.98145",
+                "upperCorner": "41.04186 56.985932"
+              }
+            },
+            "Point": {
+              "pos": "41.037755 56.983691"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "near",
+                "text": "Украина, Киев, Тихвинский переулок, 1",
+                "kind": "house",
+                "Address": {
+                  "country_code": "UA",
+                  "formatted": "Украина, Киев, Тихвинский переулок, 1",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Украина"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Киев"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Киев"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Тихвинский переулок"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "1"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Украина, Киев, Тихвинский переулок, 1",
+                    "CountryNameCode": "UA",
+                    "CountryName": "Украина",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Киев",
+                      "Locality": {
+                        "LocalityName": "Киев",
+                        "Thoroughfare": {
+                          "ThoroughfareName": "Тихвинский переулок",
+                          "Premise": {
+                            "PremiseNumber": "1"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Тихвинский переулок, 1",
+            "description": "Киев, Украина",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "30.524592 50.388105",
+                "upperCorner": "30.532802 50.393354"
+              }
+            },
+            "Point": {
+              "pos": "30.528697 50.39073"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
